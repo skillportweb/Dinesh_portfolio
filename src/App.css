@@ -122,10 +122,10 @@ body {
 }
 @media (max-width: 768px) {
   .banner-video-bg video {
-    height: 650px !important; 
+    height: 660px !important; 
   }
   .banner-video-bg{
-    height: 650px !important; 
+    height: 660px !important; 
   }
 }
 
