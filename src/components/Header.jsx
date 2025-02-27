@@ -42,7 +42,7 @@ export default function Header() {
               width="40"
               height="40"
               fill="currentColor"
-              className="bi bi-list"
+              className="bi bi-list icon-main"
               viewBox="0 0 16 16"
             >
               <path

@@ -63,6 +63,9 @@ body {
 .header-scrolled .contact-btn:hover{
   color: #fff;
 }
+.header-scrolled .icon-main{
+background-color: #000;
+}
 
 .navbar{
   height: 65px;
@@ -345,3 +348,15 @@ body {
 }
 
 /* skill-section end */
+
+/* projects-section start */
+.projects-section h2{
+  font-weight: 600;
+  font-size: 35px;
+  margin-top: 35px !important;
+  margin-bottom: 40px !important;
+  border-bottom: 2px solid #000;
+  width: 170px;
+  margin: 0 auto ;
+}
+/* projects-section end */

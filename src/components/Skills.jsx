@@ -77,8 +77,7 @@
 //               <img src="assets/skills/git.png" alt="Redux" className="img-fluid" />
 //               <p className="mt-2">Github</p>
 //             </div>
-//           </div>
-         
+//           </div>         
 //         </div>
 //       </div>
 //     </div>
