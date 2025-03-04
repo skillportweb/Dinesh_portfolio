@@ -421,3 +421,41 @@ background-color: #000;
   background: var(--secondary-color);
 }
 /* projects-section end */
+
+/* contact-section start */
+.contact-section input{
+ height: 42px;
+}
+.contact-section .contact-info{
+  padding: 10px;
+  border-radius: 5px;
+  background: #F8F9FA;
+   
+}
+.contact-section .contact-info i{
+  padding: 10px;
+  background-color: var(--secondary-color);
+  border-radius: 5px;
+  color: #fff;
+  width: 40px ;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-section .contact-info a{
+  color: #000 !important;
+}
+.contact-section .contact-info h6{
+  margin-bottom: 0;
+  font-weight: 500;
+  font-size: 18px;
+}
+/* contact-section end */
+.footer-section{
+  background: #F8F9FA;
+}
+.footer-section p{
+  font-weight: 500;
+  font-weight: 16px;
+}
