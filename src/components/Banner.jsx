@@ -49,7 +49,7 @@ export default function Banner() {
                   <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                 </div>
                 <div className="banner-btn">
-                  <a href="#">Download CV</a>
+                <a href="assets/Dinesh-Kumar-Resume.pdf" target="_blank">Download CV</a>
                 </div>
               </div>
             </div>
